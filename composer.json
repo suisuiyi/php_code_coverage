@@ -1,0 +1,8 @@
+{
+  "name": "root/first_project",
+  "require-dev": {
+  },
+  "require": {
+    "phpunit/php-code-coverage": "^6.1"
+  }
+}
